@@ -20,7 +20,7 @@ I tend to completely forget...?!
 ### Computing
 
 - https://academy.jasrati.com    
-- https://www.stoneriverelearning.com  
+- https://stoneriverelearning.com  
 
 ### General 
 
