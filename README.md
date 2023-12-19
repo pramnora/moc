@@ -32,9 +32,10 @@ then, forgetting where the link was...; also amounts to me **wasting** all of th
 
 - https://www.educba.com
   - https://www.educba.com/my-courses/learn/?xcdi=5195  (Python Intro.)
-  
-- https://www.open.edu/openlearn   
-- https://www.udemy.com
+
+- https://www.ofcourse.co.uk  
+- https://www.open.edu/openlearn     
+- https://www.udemy.com  
 
 ### Maths  
 
@@ -46,6 +47,5 @@ then, forgetting where the link was...; also amounts to me **wasting** all of th
 
 ### Other
 
-- https://www.ofcourse.co.uk  
 
 
