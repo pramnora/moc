@@ -12,7 +12,7 @@ otherwise, what tends to happen is -especially, if I hadn't visited that site in
 I tend to completely forget...?
 
 If I went and *paid* money to join that course/or, those courses...; then, forgetting where the link was...;   
-also amounts to **wasting** all of the money I just went and spent!
+also amounts to me **wasting** all of the money I just went and spent!
 
 **NOTE**: The GitHub/Netlify link to this page is: 
 
