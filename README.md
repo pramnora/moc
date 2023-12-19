@@ -12,5 +12,11 @@ Last updated: *Tue 19 Dec 2023 12:04 PM GMT*
 
 ## Links...
 
-- https://www.udemy.com
-- 
+### Languages
+
+- https://www.duolingo.com  
+
+### General 
+
+- https://www.open.edu/openlearn/  
+- https://www.udemy.com  
