@@ -17,11 +17,15 @@ I tend to completely forget...?!
 
 ## Links...
 
-### Languages
-
-- https://www.duolingo.com  
-
 ### General 
 
 - https://www.open.edu/openlearn/  
 - https://www.udemy.com  
+
+### Languages
+
+- https://www.duolingo.com  
+
+### Other
+
+
