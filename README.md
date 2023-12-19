@@ -49,3 +49,7 @@ then, forgetting where the link was...; also amounts to me **wasting** all of th
 
 - https://skillogy.com/assessments/  
 
+### YouTube
+
+- https://www.youtube.com/channel/UCTqPIeLdBTKtAFfmMPIVrGQ/videos (Skillsology)
+
