@@ -7,7 +7,10 @@ Last updated: *Tue 19 Dec 2023 12:04 PM GMT*
 
 I'm creating this page in order to store *links* to courses which I already went and signed up for...;     
 otherwise, what tends to happen is -especially, if I hadn't visited that site in absolute ages; then-       
-I tend to completely forget...?!  
+I tend to completely forget...?
+
+If I went and *paid* money to join that/those course/courses...; then, forgetting where the link was...;   
+also amounts to **wasting** all of the money you just went and spent!
 
 **NOTE**: The GitHub/Netlify link to this page is: 
 
