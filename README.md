@@ -3,6 +3,8 @@
 Page created: *Tue 19 Dec 2023 12:04 PM GMT*  
 Last updated: *Tue 19 Dec 2023 12:04 PM GMT*
 
+-----
+
 I'm creating this page in order to store *links*   
 to courses which I already went and signed up for...;   
 otherwise, what tends to happen is     
