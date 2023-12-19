@@ -24,7 +24,7 @@ I tend to completely forget...?!
 
 ### General 
 
-- https://www.open.edu/openlearn/  
+- https://www.open.edu/openlearn   
 - https://www.udemy.com  
 
 ### Languages
