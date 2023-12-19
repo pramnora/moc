@@ -25,7 +25,7 @@ I tend to completely forget...?!
 ### General 
 
 - https://www.educba.com
-  - https://www.educba.com/my-courses/learn/?xcdi=5195  
+  - https://www.educba.com/my-courses/learn/?xcdi=5195  (Python Intro.)
   
 - https://www.open.edu/openlearn   
 - https://www.udemy.com
