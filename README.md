@@ -17,6 +17,11 @@ I tend to completely forget...?!
 
 ## Links...
 
+### Computing
+
+- https://academy.jasrati.com    
+- https://www.stoneriverelearning.com  
+
 ### General 
 
 - https://www.open.edu/openlearn/  
