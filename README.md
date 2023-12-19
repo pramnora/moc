@@ -17,11 +17,14 @@ I tend to completely forget...?!
 
 ## Links...
 
+### Business  
+
+- https://academy.jasrati.com  
+
 ### Computing
 
-- https://academy.jasrati.com    
 - https://stoneriverelearning.com  
-
+  
 ### General 
 
 - https://www.educba.com
