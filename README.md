@@ -11,8 +11,8 @@ I'm creating this page in order to store *links* to courses which I already went
 otherwise, what tends to happen is -especially, if I hadn't visited that site in absolute ages; then-       
 I tend to completely forget...?
 
-If I went and *paid* money to join that/those course/courses...; then, forgetting where the link was...;   
-also amounts to **wasting** all of the money you just went and spent!
+If I went and *paid* money to join that course/or, those courses...; then, forgetting where the link was...;   
+also amounts to **wasting** all of the money I just went and spent!
 
 **NOTE**: The GitHub/Netlify link to this page is: 
 
