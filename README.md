@@ -47,7 +47,11 @@ then, forgetting where the link was...; also amounts to me **wasting** all of th
 
 ### Other
 
-- https://skillogy.com/assessments/  
+- https://skillogy.com/assessments/
+
+### Programming
+
+- https://www.w3schools.com
 
 ### YouTube
 
