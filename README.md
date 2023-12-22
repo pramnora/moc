@@ -31,6 +31,7 @@ then, forgetting where the link was...; also amounts to me **wasting** all of th
 ### Computing
 
 - https://stoneriverelearning.com  
+- https://www.udacity.com  
   
 ### General 
 
