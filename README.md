@@ -48,6 +48,7 @@ then, forgetting where the link was...; also amounts to me **wasting** all of th
 ### Languages
 
 - https://www.duolingo.com  
+- https://totale.rosettastone.com  
 
 ### Other
 
