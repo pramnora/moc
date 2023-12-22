@@ -60,5 +60,5 @@ then, forgetting where the link was...; also amounts to me **wasting** all of th
 
 ### YouTube
 
-- https://www.youtube.com/channel/UCTqPIeLdBTKtAFfmMPIVrGQ/videos (Skillsology)
+- https://www.youtube.com/channel/UCTqPIeLdBTKtAFfmMPIVrGQ/videos (Skillsology/Microsoft Office)
 
