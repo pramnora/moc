@@ -22,7 +22,7 @@ then, forgetting where the link was...; also amounts to me **wasting** all of th
 
 ### Arts
 
-- https://www.artistacademy.com  
+- https://www.artistsacademy.com  
 
 ### Business  
 
