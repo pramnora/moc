@@ -20,6 +20,10 @@ then, forgetting where the link was...; also amounts to me **wasting** all of th
 
 ## Links...
 
+### Arts
+
+- https://www.artistacademy.com  
+
 ### Business  
 
 - https://academy.jasrati.com  
