@@ -30,6 +30,7 @@ then, forgetting where the link was...; also amounts to me **wasting** all of th
 
 ### Computing
 
+- https://www.eduonix.com  
 - https://stoneriverelearning.com  
 - https://www.udacity.com  
   
